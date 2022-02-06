@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    Copyright (C) 2020 The Proton AOSP Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<wallpapers>
+
+    <category id="Made by AmanCG | wallfever" title="@string/category_wallfever_walls" featured="bloomy_blue">
+
+        <static-wallpaper
+            id="bloomy_blue"
+            src="@drawable/bloomy_blue"
+            title="@string/wallpaper_bloomy_blue"
+            subtitle1="@string/author_amancg" />
+
+        <static-wallpaper
+            id="dusky_green"
+            src="@drawable/dusky_green"
+            title="@string/wallpaper_dusky_green"
+            subtitle1="@string/author_amancg" />
+
+        <static-wallpaper
+            id="kindda_coral"
+            src="@drawable/kindda_coral"
+            title="@string/wallpaper_kindda_coral"
+            subtitle1="@string/author_amancg" />
+
+        <static-wallpaper
+            id="oh_so_orange"
+            src="@drawable/oh_so_orange"
+            title="@string/wallpaper_oh_so_orange"
+            subtitle1="@string/author_amancg" />
+
+    </category>
+
+    <category id="Made by AndroBuddy007" title="@string/category_androbuddy" featured="aex_q">
+
+        <static-wallpaper
+            id="aex_q"
+            src="@drawable/aex_q"
+            title="@string/wallpaper_aex_q"
+            subtitle1="@string/author_androbuddy" />
+
+        <static-wallpaper
+            id="aex_7_light"
+            src="@drawable/aex_7_light"
+            title="@string/wallpaper_aex_7_light"
+            subtitle1="@string/author_androbuddy"/>
+
+        <static-wallpaper
+            id="aex_7_dark"
+            src="@drawable/aex_7_dark"
+            title="@string/wallpaper_aex_7_dark"
+            subtitle1="@string/author_androbuddy"/>
+
+    </category>
+
+</wallpapers>
